@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-ff4b4b)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
