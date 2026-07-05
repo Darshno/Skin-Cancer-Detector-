@@ -38,14 +38,10 @@ The application provides an intuitive web interface where users can upload an im
 
 ## 🖼️ Application Preview
 
-### Dashboard
+<img width="1280" height="604" alt="1783193585708" src="https://github.com/user-attachments/assets/1a7b7230-2d02-445d-8689-ed686418d34f" />
+<img width="1280" height="628" alt="1783193585520" src="https://github.com/user-attachments/assets/55e8b489-85d6-45f1-8117-600db49b887b" />
+<img width="1280" height="641" alt="1783193585704" src="https://github.com/user-attachments/assets/4e9c5c66-299d-47d6-a817-5a8148d6ec79" />
 
-> <img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/19a16218-4c45-4ff4-b70b-eb904eb44c6d" />
-
-
-### Prediction
-
-<img width="665" height="317" alt="image" src="https://github.com/user-attachments/assets/0c63fa7b-0b67-4365-bd96-13fcf2489e79" />
 
 
 
