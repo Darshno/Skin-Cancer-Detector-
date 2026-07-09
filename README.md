@@ -47,14 +47,6 @@ The project also includes an interactive **Streamlit dashboard** that allows use
 
 ---
 
-# 🖼️ Application Preview
-
-<p align="center">
-  <img src="assets/app1.png" width="30%">
-  <img src="assets/app2.png" width="30%">
-  <img src="assets/app3.png" width="30%">
-</p>
-
 ---
 
 # 📂 Dataset
